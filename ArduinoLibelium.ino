@@ -20,7 +20,7 @@
 uint8_t socket = SOCKET0;     //Asign to UART0
 //////////////////////////////////////////////
 
-unsigned long pausetime = 60000*5;  // pause in ms
+unsigned long pausetime = 60000*15;  // pause in ms
 unsigned long previousMillis = 0; 
 
 // define variable to create a speficic frame to be sent
